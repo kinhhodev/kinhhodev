@@ -1,0 +1,31 @@
+{
+  "name": "kinhhodev",
+  "version": "1.0.0",
+  "description": "<!-- **kinhhodev/kinhhodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "axios": "^1.7.8",
+    "combined-stream": "^1.0.8",
+    "delayed-stream": "^1.0.0",
+    "follow-redirects": "^1.15.9",
+    "form-data": "^4.0.1",
+    "markdown-it": "^14.1.0",
+    "mime-db": "^1.52.0",
+    "mime-types": "^2.1.35",
+    "proxy-from-env": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinhhodev/kinhhodev.git"
+  },
+  "author": "Kinh Ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kinhhodev/kinhhodev/issues"
+  },
+  "homepage": "https://github.com/kinhhodev/kinhhodev#readme"
+}
