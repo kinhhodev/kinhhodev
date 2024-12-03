@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If there's a definition of freedom, I think it's this: living life on your terms.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.&quot;</em> <br>
+— Charles Dickens
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
