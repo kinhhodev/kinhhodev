@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The greatest doer must also be a great dreamer.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;Life can only be understood backwards; but it must be lived forwards.&quot;</em> <br>
+— Soren Kierkegaard
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
