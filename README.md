@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If you're afraid to die, you're afraid to live. You can't have one without the other.&quot;</em> <br>
-— Rita Mae Brown
+<em>&quot;Do what is right, not what is easy, nor what is popular.&quot;</em> <br>
+— Roy T. Bennett
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
