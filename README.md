@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. &quot;</em> <br>
-— Buddha
+<em>&quot;Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.&quot;</em> <br>
+— Denis Waitley
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
