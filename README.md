@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;A tiger doesn't lose sleep over the opinion of sheep.&quot;</em> <br>
-— Shahir Zag
+<em>&quot;Make your mind your own business.&quot;</em> <br>
+— Jack Butcher
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
