@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;A comfort zone is a beautiful place, but nothing ever grows there.&quot;</em> <br>
-— Unknown
+<em>&quot;Intelligent men are cruel. Stupid men are monstrously cruel.&quot;</em> <br>
+— Jack London
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
