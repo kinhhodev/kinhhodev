@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Care about what other people think and you will always be their prisoner.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;It's necessary to get the losers out of your life if you want to live your dream.&quot;</em> <br>
+— Les Brown
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
