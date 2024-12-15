@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. &quot;</em> <br>
+— Eckhart Tolle
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
