@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;I skate to where the puck is going to be, not where it has been.&quot;</em> <br>
+— Wayne Gretzky
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
