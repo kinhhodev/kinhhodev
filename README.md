@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.&quot;</em> <br>
-— Alexander Graham Bell
+<em>&quot;There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. &quot;</em> <br>
+— Orison Swett Marden
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
