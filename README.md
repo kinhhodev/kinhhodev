@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The idea of ourselves is our escape from the fact of what we really are.&quot;</em> <br>
-— Jiddu Krishnamurti
+<em>&quot;A heart is not judged by how much you love, but by how much you are loved by others.&quot;</em> <br>
+— Judy Garland
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
