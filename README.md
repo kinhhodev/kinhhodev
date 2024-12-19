@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If you don't like something change it; if you can't change it, change the way you think about it.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.&quot;</em> <br>
+— Bhagavad Gita
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
