@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Few things are more deceptive than memories.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;What one does is what counts. Not what one had the intention of doing.&quot;</em> <br>
+— Pablo Picasso
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
