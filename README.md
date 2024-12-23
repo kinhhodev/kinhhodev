@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You don't have to be great to start, but you have to start to be great.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Whatever satisfies the soul is truth.&quot;</em> <br>
+— Walt Whitman
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
