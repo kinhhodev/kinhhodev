@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. &quot;</em> <br>
-— Denis Waitley
+<em>&quot;Conquer the devils with a little thing called love.&quot;</em> <br>
+— Bob Marley
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
