@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Some men see things as they are and ask why. Others dream things that never were and ask why not.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.&quot;</em> <br>
+— Christopher Reeve
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
