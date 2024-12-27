@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;How people treat you is their karma; how you react is yours. &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;You are your best thing.&quot;</em> <br>
+— Toni Morrison
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
