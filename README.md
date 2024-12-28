@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;To live is the rarest thing in the world. Most people exist, that is all. &quot;</em> <br>
-— Oscar Wilde
+<em>&quot;Dreams are for dreamers. Goals are for achievers.&quot;</em> <br>
+— Arnold Schwarzenegger
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
