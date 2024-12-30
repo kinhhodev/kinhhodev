@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;No one ever is defeated until defeat has been accepted as a reality.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;As you love yourself, life loves you back.&quot;</em> <br>
+— Kamal Ravikant
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
