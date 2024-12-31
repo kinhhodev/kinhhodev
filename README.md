@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You are what you believe in. You become that which you believe you can become.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;The price of inaction is far greater than the cost of making a mistake.&quot;</em> <br>
+— Meister Eckhart
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
