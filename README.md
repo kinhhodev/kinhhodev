@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Don't seek, don't avoid, don't expect. Take what comes and be happy.&quot;</em> <br>
+<em>&quot;The highest level of wisdom is when you not only accept but love adversity.&quot;</em> <br>
 — Maxime Lagace
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
