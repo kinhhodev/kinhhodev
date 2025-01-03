@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Progress lies not in enhancing what is, but in advancing toward what will be.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;The best way to predict the future is to create it.&quot;</em> <br>
+— Abraham Lincoln
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
