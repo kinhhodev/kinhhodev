@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.&quot;</em> <br>
+— Alexander Graham Bell
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
