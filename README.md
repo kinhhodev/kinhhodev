@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.&quot;</em> <br>
-— Sydney Smith
+<em>&quot;There is no fear for one whose mind is not filled with desires.&quot;</em> <br>
+— Buddha
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
