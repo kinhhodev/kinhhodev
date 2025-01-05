@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Integrity is telling myself the truth. And honesty is telling the truth to other people.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board.&quot;</em> <br>
+— D. H. Lawrence
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
