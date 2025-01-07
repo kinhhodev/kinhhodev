@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.&quot;</em> <br>
+— Ming-Dao Deng
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
