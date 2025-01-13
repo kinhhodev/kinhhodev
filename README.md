@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Be yourself; everyone else is already taken.&quot;</em> <br>
-— Oscar Wilde
+<em>&quot;Don't let the noise of others opinions drown out your inner voice.&quot;</em> <br>
+— Steve Jobs
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
