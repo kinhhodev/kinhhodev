@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Believe that life is worth living and your belief will help create the fact.&quot;</em> <br>
-— William James
+<em>&quot;The only real security that a man can have in this world is a reserve of knowledge, experience and ability. &quot;</em> <br>
+— Henry Ford
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
