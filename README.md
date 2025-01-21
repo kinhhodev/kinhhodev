@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You can have results or excuses, but not both.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;Always do your best. What you plant now, you will harvest later.&quot;</em> <br>
+— Og Mandino
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
