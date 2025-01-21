@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;It's not about what it is, it's about what it can become.&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.&quot;</em> <br>
+— Wayne Gretzky
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
