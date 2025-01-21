@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Becoming a great leader doesn't mean being perfect. it means living with your imperfections.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!&quot;</em> <br>
+— Charles Darwin
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
