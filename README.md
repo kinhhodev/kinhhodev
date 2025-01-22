@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The divine is not something high above us. It is in heaven, it is in earth, it is inside us.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.&quot;</em> <br>
+— Robert Greene
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
