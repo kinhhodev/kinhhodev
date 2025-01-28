@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If we all did the things we are capable of doing, we would literally astound ourselves.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;From morning till night, we should never rely on a single thing.&quot;</em> <br>
+— Huang Po
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
