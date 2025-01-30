@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Don't let the past steal your present.&quot;</em> <br>
-— Cherralea Morgen
+<em>&quot;Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.&quot;</em> <br>
+— Steve Maraboli
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
