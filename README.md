@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;A flower falls, even though we love it; and a weed grows, even though we do not love it.&quot;</em> <br>
-— Dogen
+<em>&quot;The destiny of man is in his own soul. &quot;</em> <br>
+— Herodotus
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
