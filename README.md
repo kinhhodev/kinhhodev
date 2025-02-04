@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If the only prayer you ever say in your entire life is thank you, it will be enough.&quot;</em> <br>
-— Meister Eckhart
+<em>&quot;Your worth consists in what you are and not in what you have.&quot;</em> <br>
+— Thomas Edison
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
