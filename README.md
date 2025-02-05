@@ -127,7 +127,7 @@
 
 ###
 
-<img align="right" height="150" src="/thunder_cloud.gif"  />
+<img align="right" height="150" src="./thunder_cloud.gif"  />
 
 ###
 
